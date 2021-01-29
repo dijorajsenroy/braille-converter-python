@@ -2,10 +2,6 @@
 #!/usr/local/bin/python3
 # -*- coding: utf8 -*-
 
-# Written by Aadit Trivedi
-# June 6, 2018
-# Braille Library
-
 # # Dependencies
 # 1) sudo apt-get install pyaudio
 # 3) sudo apt-get install espeak 
@@ -16,8 +12,6 @@
 # 6) sudo apt-get install opencv-python
 # 7) pip3 install opencv
 # 8) pip3 install matplotlib
-
-# Upload to GitHub
 
 import speech_recognition as sr
 import numpy as np
