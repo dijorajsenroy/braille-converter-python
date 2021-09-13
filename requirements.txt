@@ -1,0 +1,9 @@
+1) sudo apt-get install pyaudio
+2) sudo apt-get install espeak 
+3) pip3 install SpeechRecognition
+4) pip3 install numpy
+5) pip3 install pillow
+6) sudo apt-get install pytesseract
+7) sudo apt-get install opencv-python
+8) pip3 install opencv
+9) pip3 install matplotlib
